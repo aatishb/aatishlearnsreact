@@ -1,11 +1,13 @@
-# Project Title
+# Aatish Learns React
 
-One Paragraph of project description goes here
+A simple growing set of React examples
 
 ## Getting Started
 
+```
 npm init
 eslint --init
+```
 
 ## License
 
