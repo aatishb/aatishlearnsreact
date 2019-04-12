@@ -4,7 +4,7 @@ A simple growing set of React examples
 
 ##
 
-- [Say My Name](1 Say My Name/) ([code](https://github.com/aatishb/aatishlearnsreact/blob/master/1%20Say%20My%20Name/sketch.js))
+- [Say My Name](1%20Say%20My%20Name/) ([code](https://github.com/aatishb/aatishlearnsreact/blob/master/1%20Say%20My%20Name/sketch.js))
 
 ## Getting Started
 
