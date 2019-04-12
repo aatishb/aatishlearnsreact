@@ -7,6 +7,8 @@ A simple growing set of React examples
 - [Button](button/) ([code](https://github.com/aatishb/aatishlearnsreact/blob/master/button/sketch.js))
 - [Knock Knock](knockknock/) ([code](https://github.com/aatishb/aatishlearnsreact/blob/master/knockknock/sketch.js))
 - [Carrot Counter](carrotcounter/) ([code](https://github.com/aatishb/aatishlearnsreact/blob/master/carrotcounter/sketch.js))
+- [Hypno Toad](hypnotoad/) ([code](https://github.com/aatishb/aatishlearnsreact/blob/master/hypnotoad/sketch.js))
+- [Wave Maker](wavemaker/) ([code](https://github.com/aatishb/aatishlearnsreact/blob/master/wavemaker/sketch.js))
 
 ## Getting Started
 
